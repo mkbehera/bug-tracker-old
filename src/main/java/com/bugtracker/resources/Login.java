@@ -19,7 +19,14 @@ public class Login extends HttpServlet {
 		//Login.java edited for git testing 3
 		//Login.java edited for git testing 4
 		//Login.java edited for git testing 5
-		
+		//Login.java edited for git testing
+		//Login.java edited for git testing
+		//Login.java edited for git testing//Login.java edited for git testing
+		//Login.java edited for git testing//Login.java edited for git testing
+		//Login.java edited for git testing//Login.java edited for git testing
+		//Login.java edited for git testing//Login.java edited for git testing
+		//Login.java edited for git testing
+
 		String loginid=request.getParameter("loginid");
 		String password=request.getParameter("password");
 		String type=request.getParameter("type");
