@@ -14,8 +14,12 @@ public class Login extends HttpServlet {
 
 	public void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
+		//Login.java edited for git testing	
 		//Login.java edited for git testing
-		//Login.java edited for git testing
+		//Login.java edited for git testing 3
+		//Login.java edited for git testing 4
+		//Login.java edited for git testing 5
+		
 		String loginid=request.getParameter("loginid");
 		String password=request.getParameter("password");
 		String type=request.getParameter("type");
